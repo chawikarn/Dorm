@@ -1,0 +1,74 @@
+﻿@model DormitoryWeb.Models.Current_in
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>ข้อมูลผู้เข้าพัก</h2>
+
+<div>
+    <h4>Current_in</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            ห้อง
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.room_id)
+        </dd>
+
+
+
+        <dt>
+           ชื่อผู้อาศัย
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.booking.AspNetUsers.name)
+        </dd>
+
+
+        <dt>
+           ที่อยู่
+
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.booking.AspNetUsers.address)
+        </dd>
+
+        <dt>
+            Email 
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.booking.AspNetUsers.Email)
+        </dd>
+        <dt>
+           เบอร์โทรศัพท์
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.booking.AspNetUsers.PhoneNumber)
+        </dd>
+        <dt>
+            วันที่ย้ายเข้า
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => Model.booking.date_in)
+        </dd>
+        <dt>
+            เอกสารสัญญา
+        </dt>
+        <dd class="sorting">
+            @Html.ActionLink("Download", "Download", new { fileName = Model.booking.File })
+
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

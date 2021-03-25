@@ -1,0 +1,51 @@
+﻿@model IEnumerable<DormitoryWeb.Models.RepairReport>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.header)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.body)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date_time)
+        </th>
+        <th>
+            File
+        </th>
+
+    </tr>
+
+@foreach (var item in Model)
+{
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.header)
+    </td>
+    <td>
+        @Html.DisplayFor(model => item.body)
+    </td>
+    <td>
+        @Html.DisplayFor(model => item.date_time)
+    </td>
+    <td>
+        @Html.ActionLink("Download", "Download", new { fileName = item.File })
+
+    </td>
+    @* @{ if (User.Identity.Name == "admin@mail.com")
+            {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            }
+        }
+    *@
+
+</tr>
+        }
+
+</table>

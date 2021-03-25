@@ -1,0 +1,41 @@
+﻿@model DormitoryWeb.Models.booking
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+@using (Html.BeginForm("Edit", "Booking", FormMethod.Post, new
+{
+    enctype =
+            "multipart/form-data"
+}))
+
+{
+    @Html.AntiForgeryToken()
+    <h2> </h2>
+    @Html.HiddenFor(model => model.booking_id)
+    @Html.HiddenFor(model => model.customer_id)
+    @Html.HiddenFor(model => model.room_id)
+    @Html.HiddenFor(model => model.date_in)
+    @Html.HiddenFor(model => model.status)
+    @Html.HiddenFor(model => model.Email)
+
+    <h2>Add Contract</h2>
+    <div class="col-md-10">
+        @Html.EditorFor(model => model.File, new { htmlAttributes = new { @class = "form-control", type = "file" } })
+        @Html.ValidationMessageFor(model => model.File, "", new { @class = "text-danger" })
+    </div>
+
+
+    <div class="col-md-offset-2 col-md-10">
+        <input type="submit" value="Save" class="btn btn-default" />
+    </div>
+
+}
+    }
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+

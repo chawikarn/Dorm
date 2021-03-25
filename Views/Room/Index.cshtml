@@ -1,0 +1,40 @@
+﻿@model IEnumerable<DormitoryWeb.Models.Room>
+@using DormitoryWeb.Models
+@{
+    ViewBag.Title = "Index";
+}
+
+
+
+<div class="jumbotron text-center">
+    <h2 align="center "><b>Room Detail</b></h2>
+</div>
+
+    <div class=" container" style="width:100%">
+        @foreach (Room p in ViewBag.listRoom)
+        {
+            <div class="col-md-3">
+                <div class="mypanel" align="center">
+                    <div class="thumbnail">
+                        <div class="row">
+                            <img src=@Url.Content("~/Content/images/" + @p.url) style="width: 250px;height: auto" />
+                            <h4 class="text-dark">Room no. @p.room_id </h4>
+                            <h5 class="text-danger">Bed(s)  @p.type_id</h5>
+                            <h5 class="text-info">Description @p.Room_info</h5>
+                            @{ if (User.Identity.IsAuthenticated)
+                                {
+                                    <a href="~/Booking/Create" class="btn btn-success ">จองเลย »</a>
+                                }
+                                else if (!User.Identity.IsAuthenticated)
+                                {
+                            <a href="~/Account/Register" class="btn btn-success ">จองเลย »</a>
+                                    }
+                                }
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>

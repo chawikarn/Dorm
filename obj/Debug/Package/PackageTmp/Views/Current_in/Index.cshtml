@@ -1,0 +1,59 @@
+﻿@model IEnumerable<DormitoryWeb.Models.Current_in>
+
+@{
+    ViewBag.Title = "Current_in";
+}
+
+<h2>ลูกค้าปัจจุบัน</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            ห้องพัก
+        </th>
+        <th>
+            ชื่อเจ้าของห้อง
+        </th>
+
+        <th>
+            เบอร์โทรศัพท์
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.room_id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.booking.AspNetUsers.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.booking.AspNetUsers.PhoneNumber)
+    </td>
+    <td>
+        @Html.ActionLink("ค่าไฟ", "Create", "Elec_water") |
+        @Html.ActionLink("ค่าน้ำ", "Create2", "Elec_water") |
+        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+    </td>
+
+
+</tr>
+    }
+
+
+</table>
+
+<a href="~/Elec_water/index" class="btn btn-danger "> ตารางค่าไฟ </a>
+<a href="~/Elec_water/index1" class="btn btn-info "> ตารางค่าน้ำ </a>

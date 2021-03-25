@@ -1,0 +1,1006 @@
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+C:\Users\KULLANUN\Source\Repos\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+C:\Users\hp 15CX\OneDrive\เดสก์ท็อป\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+D:\0Study\ปี 3 เทอม 1\WEB APP DEV\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+E:\1-20201021T052220Z-001\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\fix2\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+D:\ACADEMIC\web app Project\New folder\blackup3 - Copy\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+D:\ACADEMIC\web app Project\New folder\ล่าสุด\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+D:\ACADEMIC\web app Project\New folder\ล่าสุด\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+D:\ACADEMIC\web app Project\New folder\ล่าสุด\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+D:\ACADEMIC\web app Project\New folder\ล่าสุด\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+D:\ACADEMIC\web app Project\New folder\ล่าสุด\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+D:\ACADEMIC\web app Project\New folder\ล่าสุด\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ACADEMIC\web app Project\New folder\ล่าสุด - Copy (2)\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll.config
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\DormitoryWeb.pdb
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.exe.config
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csc.rsp
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.exe.config
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\csi.rsp
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.AppContext.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Console.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.exe.config
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\vbc.rsp
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Owin.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\WebGrease.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Helpers.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Mvc.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Optimization.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.Razor.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Newtonsoft.Json.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Antlr3.Runtime.pdb
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csprojAssemblyReference.cache
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.InitialCreate.resources
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.Migrations.DormMigration.resources
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.csproj.CopyComplete
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.dll
+C:\Users\LEGION\Downloads\backup\1\DormitoryWeb\DormitoryWeb\obj\Debug\DormitoryWeb.pdb

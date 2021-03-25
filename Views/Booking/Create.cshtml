@@ -1,0 +1,76 @@
+﻿@model DormitoryWeb.Models.booking
+@using DormitoryWeb.Models
+
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Booking</h2>
+@using (Html.BeginForm("Create", "Booking", FormMethod.Post, new
+{
+    enctype =
+            "multipart/form-data"
+}))
+
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <h4>booking</h4>
+    <hr />
+
+    <nav class="breadcrumb">
+        <div class="form-group">
+            <h5 class="control-label col-md-2"> Rome No.</h5>
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.room_id, new SelectList(Model.roomlist, "room_id", "room_id"), "-- Select --", new { id = "roomlist" })
+
+                @Html.ValidationMessageFor(model => model.roomlist, "", new { @class = "text-danger" })
+
+            </div>
+            @*    <div class="col-md-10">
+          @Html.EditorFor(model => model.room_id, new { htmlAttributes = new { @class = "form-control" } })
+          @Html.ValidationMessageFor(model => model.room_id, "", new { @class = "text-danger" })
+        </div>
+            *@
+        </div>
+
+
+        <div class="form-group">
+            <h5 class="control-label col-md-2"> Date in</h5>
+            <div class="col-md-10">
+                
+                @Html.EditorFor(model => model.date_in, new { htmlAttributes = new { @class = "form-control datetimepicker" } })
+                @Html.ValidationMessageFor(model => model.date_in, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <script type="text/javascript">
+         $(function () {
+             $('.datetimepicker').datetimepicker();
+
+           })
+        </script>
+    </nav>
+    <br>
+    <nav class="active">
+        <div class="container">
+            <div class="form-group">
+                <h5 class="control-label col-md-2"> เอกสารสัญญาการเช่า</h5>
+                <div class="btn text-white"><a href="~/Contract/Contract.pdf" download> Download Contract</a></div>
+            </div>
+        </div>
+    </nav>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="ยืนยัน" class="btn btn-success" />
+        </div>
+    </div>
+</div>
+}
+
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

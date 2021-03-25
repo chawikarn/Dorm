@@ -1,0 +1,62 @@
+﻿@model IEnumerable<DormitoryWeb.Models.booking>
+@{
+    ViewBag.Title = "Booking";
+}
+<h2>Booking List</h2>
+
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.booking_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.date_in)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.room_id)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AspNetUsers.Email)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.status)
+                </th>
+
+            </tr>
+
+            @foreach (var item in Model)
+            {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.booking_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.date_in)
+            </td>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.room_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AspNetUsers.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.status)
+            </td>  
+            
+            @{ if (User.Identity.IsAuthenticated && User.Identity.Name != "admin@mail.com")
+                {
+                        <td>
+                            @Html.ActionLink("Add Contract", "Edit", new { id = item.room_id }) |
+                           
+                            @Html.ActionLink("Cancel", "Delete", new { id = item.room_id })
+
+                        </td>
+                }
+            }
+
+        </tr>
+            }
+
+
+        </table>

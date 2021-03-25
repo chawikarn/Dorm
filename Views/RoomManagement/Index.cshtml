@@ -1,0 +1,46 @@
+﻿@model IEnumerable<DormitoryWeb.Models.Room>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.room_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.status)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.url)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Room_info)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Type.type_id)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.room_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.status)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.url)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Room_info)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Type.type_id)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.room_id }) 
+        </td>
+    </tr>
+}
+
+</table>

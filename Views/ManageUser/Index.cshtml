@@ -1,0 +1,49 @@
+﻿@model IEnumerable<DormitoryWeb.Models.booking>
+
+<h2>Booking Managing</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Room.room_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.date_in)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Room.room_id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.date_in)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.status)
+    </td>
+    <td class="sorting">
+        @Html.ActionLink("Download", "Download", new { fileName = item.File })
+
+    </td>
+    <td>
+        @Html.ActionLink("Add to resident,", "Create", "Current_in") |
+
+        @Html.ActionLink("Edit", "Edit", new { id = item.room_id }) |
+
+        @Html.ActionLink("Delete", "Delete", new { id = item.room_id })
+    </td>
+</tr>
+}
+
+</table>
